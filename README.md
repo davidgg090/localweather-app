@@ -1,5 +1,7 @@
 # LocalweatherApp
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d526a2e466d44369aaa17a5cfd7aa0a3)](https://app.codacy.com/manual/davidgg090/localweather-app?utm_source=github.com&utm_medium=referral&utm_content=davidgg090/localweather-app&utm_campaign=Badge_Grade_Dashboard)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
 
 ## Development server
