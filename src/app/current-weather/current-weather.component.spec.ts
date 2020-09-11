@@ -54,5 +54,4 @@ describe('CurrentWeatherComponent', () => {
     // Assert
     expect(weatherServiceMock.getCurrentWeather).toHaveBeenCalledTimes(1)
   })
-
 })
